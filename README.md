@@ -1,9 +1,8 @@
 <div align="center">
     <img src="img/FenishTools.png" width="200">
     <br>
-    <Font size="16">
-        <b>FenishTools</b>
-    </Font>
+    <span style="font-size:5em;">FenishTools</span>
+
 </div>
 
 <hr>
